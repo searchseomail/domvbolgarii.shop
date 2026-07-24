@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://domvbolgarii.shop/sitemap.txt
